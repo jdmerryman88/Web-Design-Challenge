@@ -105,16 +105,18 @@ div.col-sm-12.col-md-12 p {
 
 .click{font-size: small;}
 
-table{ 
+
+.table-responsive{
+  background-color: white;
   text-align: left;
   font: Arial;
-  background-color: whitesmoke;
+  background-color: white;
   font-size: small;
-  margin-left: 10%;
-
-  
-
-
+  padding:2em;
 
 }
 
+table{
+
+  width: 100%;
+}
