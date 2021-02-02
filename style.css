@@ -24,7 +24,7 @@ body {
 }
 
 .navbar-collapse {
-  position: absolute;
+  position: relative;
   right: 5%;
   font-size: small;
 }
