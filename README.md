@@ -10,5 +10,6 @@ The data used to complete this analysis can be found in the data tab.
 
 Clicking lattiude at any point on the website will return you to the home page. 
 
-![Screenshot](https://user-images.githubusercontent.com/71932469/115158552-57764d80-a054-11eb-9477-aceba4e32184.png)
+![HomepageScreenshot](https://user-images.githubusercontent.com/71932469/115158569-6eb53b00-a054-11eb-959b-396cc3037586.png)
+
 
