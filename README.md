@@ -10,4 +10,5 @@ The data used to complete this analysis can be found in the data tab.
 
 Clicking lattiude at any point on the website will return you to the home page. 
 
-![README.md](https://github.com/jdmerryman88/Web-Design-Challenge/files/6332064/README.md)
+![Screenshot](https://user-images.githubusercontent.com/71932469/115158552-57764d80-a054-11eb-9477-aceba4e32184.png)
+
