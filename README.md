@@ -9,3 +9,5 @@ The comparison tab gives you an overview of all the different graphs on one scre
 The data used to complete this analysis can be found in the data tab.
 
 Clicking lattiude at any point on the website will return you to the home page. 
+
+![README.md](https://github.com/jdmerryman88/Web-Design-Challenge/files/6332064/README.md)
